@@ -351,10 +351,9 @@ jobs:
           fi
         shell: bash
 
-      - name: Extract AppImage 
+      - name: Extract DMG without EULA prompt
         run: |
-          hdiutil attach FiddlerEverywhere.dmg
-          cp -R /Volumes/FiddlerEverywhere/* ./fe_app/
+          7z x FiddlerEverywhere.dmg -ofe_app
 
       - name: List fe_app
         shell: pwsh
