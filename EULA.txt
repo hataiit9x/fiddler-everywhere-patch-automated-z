@@ -1,0 +1,114 @@
+the Hosted Services, and, as between you and us, you retain ownership
+and any intellectual property rights in such Content. You will, at
+your own expense, obtain all third-party licenses, consents and/or
+permissions that may be necessary or appropriate with respect to
+such Content to enable each party to exercise its rights and perform
+its obligations under this EULA. You grant us a world-wide, royalty
+free, fully paid up, transferable, sublicenseable license to use,
+copy, host, store, disseminate, distribute, publicly display,
+sublicense, post or publish such Content, but only to the extent
+necessary for us to provide the Hosted Services. You agree that we
+may use our third-party contractors and service providers to exercise
+the licenses granted to us in this section to perform services for
+or on our behalf. You agree that you will have no rights against
+such third-party contractors or service providers in connection
+with this EULA or your use of the Hosted Services hereunder. In
+addition, you acknowledge that to protect your transmission of
+Content to the Hosted Services, it is your responsibility to use a
+secure encrypted connection to communicate with and/or utilize the
+Hosted Services.
+2.B.3.2. Your Warranties Regarding the Content. You represent and
+warrant that the Content does not and will not violate the AUP.
+2.B.3.3. Our Disclaimer Regarding the Content. We do not endorse
+any Content or any opinion, recommendation, or advice expressed in
+any Content, and we expressly disclaim any liability in connection
+with any Content. We do not pre-screen Content, but we and our
+designees (including our Affiliates, third party contractors and
+service providers) reserve the right (but not the obligation) in
+our or their sole discretion to access, review, and monitor the
+Content and to refuse, remove or delete any Content that is
+inappropriate or not in compliance with this EULA and/or suspend
+or terminate your use of the Hosted Services at any time, without
+prior notice and in our sole discretion. ANY USE OF CONTENT PROVIDED
+BY OTHERS, INCLUDING OTHER CUSTOMERS, IS ENTIRELY AT YOUR OWN RISK.
+WE MAKE NO REPRESENTATIONS OR WARRANTIES ABOUT ANY CONTENT AVAILABLE
+ON OUR WEBSITE OR THROUGH THE HOSTED SERVICES, INCLUDING WITHOUT
+LIMITATION WITH RESPECT TO SUCH CONTENT'S QUALITY, ACCURACY, LEGALITY
+OR RELIABILITY.
+2.B.4. Changes to the Hosted Services or EULA.
+2.B.4.1. Changes to the Hosted Services.  We reserve the right to
+add, modify or discontinue any product, feature or service made
+available through the Hosted Services. Any additions or modifications
+to the Hosted Services may be subject to additional terms and
+conditions which will be included in section 3 (Product Family
+Specific Terms) or section 4 (Product Specific Terms) of an updated
+version of this EULA implemented in accordance with the terms of
+section 2.B.4.2 (Changes to the EULA).
+2.B.4.2. Changes to the EULA. We may modify this EULA at any time
+by posting a revised version on our website at
+https://www.progress.com/legal. Modified terms that relate to
+modifications or additions to the Hosted Services will be effective
+at the time such modifications or additions to the Hosted Services
+are made in accordance with section 2.B.4.1 (Changes to the Hosted
+Services).  Modified terms that are required by law will be effective
+immediately. All other modified terms will be effective at the
+commencement of your renewal subscription period occurring immediately
+following the posting of the revised version of this EULA.  If we
+post any revisions to this EULA after the date on which you are
+required to notify us that you do not want to renew your subscription
+(pursuant to section 1.3.4 (Subscription License Type)) and you do
+not agree with the terms and conditions of the revised EULA, you
+may notify us that you do not want to renew your subscription at
+any time prior to the commencement of your renewal subscription
+period. It is your responsibility to check our website regularly
+for revisions to this EULA.
+2.B.5. Data Backup and Limitations on Availability of Hosted Services.
+2.B.5.1. Data Backup.  We will follow our standard archival procedures
+for storage of Content. In the event of any loss or corruption of
+Content, we will use commercially reasonable efforts to restore the
+lost or corrupted Content from the latest backup of such Content
+maintained by us or our third-party service provider in accordance
+with its archival procedures. We will not be responsible for any
+loss, corruption, destruction, alteration, or unauthorized disclosure
+of or access to Content directly or indirectly arising from acts
+or omissions of you, your Authorized Users or a third party. OUR
+EFFORTS TO RESTORE LOST OR CORRUPTED CONTENT PURSUANT TO THIS SECTION
+2.B.5.1 WILL CONSTITUTE OUR SOLE LIABILITY AND YOUR SOLE AND EXCLUSIVE
+REMEDY IN THE EVENT OF ANY LOSS, CORRUPTION, DESTRUCTION, ALTERATION
+OR UNAUTHORIZED DISCLOSURE OF OR ACCESS TO CONTENT.
+2.B.5.2. Limitations on Availability of Hosted Services.  The Hosted
+Services may be inaccessible for reasons including maintenance
+updates, power outages, internet delays, system failures, extended
+downtime and other interruptions. During such periods, you and your
+Authorized Users may be unable to access or use all or a portion
+of the Hosted Services and some or all of the Content may be lost
+or corrupted (in which case, our sole obligation to you will be to
+exercise commercially reasonable efforts to restore the Content in
+accordance with section 2.B.5.1 (Data Backup)). Additionally, we
+may immediately suspend the Hosted Services if there is a reasonable
+threat to the technical security or technical integrity of the
+Hosted Services.
+2.B.6. Use of Third Party Vendors; Transmission of Data. Progress
+may use third party vendors to provide the infrastructure, hardware,
+software, networking, storage, and related technology required to
+operate and provide the Hosted Services ("Cloud Infrastructure
+Environment") and such third party vendors may be granted access
+to your Content while performing services for us in accordance with
+the terms set out in section 2.B.3.1 (Your Responsibility for the
+Content and License Grant to Us). You agree to abide by such third
+party vendors' acceptable use policies which are provided or otherwise
+noticed to you and you shall have no rights against any such third
+party vendors in connection with the Hosted Services.
+2.B.7. Location of Cloud Infrastructure Environment and Personnel.
+Except as otherwise specified in section 3 (Product Family Specific
+Terms) or section 4 (Product Specific Terms), the Cloud Infrastructure
+Environment, or any portion thereof, and any of our personnel or
+the personnel of our Affiliates or service providers with access
+to the Content under the license granted in section 2.B.3.1 (Your
+Responsibility for the Content and License Grant to Us), may be
+located in the United States or any other country in which we or
+our Affiliates or service providers maintain facilities.
+2.B.8. Information Use and Disclosure by Us. With respect to the
+Hosted Services, we may access or disclose information about you,
+your Authorized Users, Account(s) and/or the content of your or
+your Authorized Users' communications in order to (i) provide, 
